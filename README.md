@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there, I'm Rodrigo 👋🏻
+I am self-taught web developer and my stack is:
+- HTML and CSS (including SASS, BEM and Bootstrap)
+- React (still working)
+- Angular (still working)
+- SQL 
+- PHP 
+- JavaScript 
+- WordPress
+- Git
+---
 
-<!--
-**rodrigov03/rodrigov03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hobbies
+🌊 Surf Enthusiast <br/>
+🎮 Gamer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- [Portfolio](https://www.rodrigopv.com/) <br/>
+- [Instagram](https://instagram.com/rodrigov03) <br/>
+- [Linkedin](https://linkedin.com/in/rodrigov03/) <br/>
+- [Twitter](https://twitter.com/rventura03) <br/>
