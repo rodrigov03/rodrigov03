@@ -10,9 +10,10 @@ I am self-taught web developer and my stack is:
 - Git
 ---
 
-## Hobbies
-🌊 Surf Enthusiast <br/>
-🎮 Gamer
+<div>
+  <a href="https://github.com/rodrigov03">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigov03&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Connect with Me
 - [Portfolio](https://www.rodrigopv.com/) <br/>
