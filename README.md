@@ -12,7 +12,7 @@ I am self-taught web developer and my stack is:
 
 <div>
   <a href="https://github.com/rodrigov03">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigov03&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigov03&layout=compact&langs_count=16&theme=dark"/>
   </a>
 </div>
 
